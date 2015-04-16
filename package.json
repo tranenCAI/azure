@@ -1,0 +1,15 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "tranen DashBoard",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tranen",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.11.1",
+    "socket.io": "^1.3.2"
+  }
+}
